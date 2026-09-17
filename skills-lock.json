@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "m-yagni": {
+      "source": ".",
+      "sourceType": "local",
+      "computedHash": "59ab76097bfa7e748b667993e00a64fb2e9558565f452f910473e93ada4b4b57"
+    }
+  }
+}
