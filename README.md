@@ -7,12 +7,12 @@ M-YAGNI is a coding skill that balances YAGNI with refactorability.
 ## Install
 
 ```bash
-npx skills add QuangNguyen/m-yagni --skill m-yagni
+npx skills add minhquang0407/m-yagni --skill m-yagni
 ```
 
 Global:
 ```bash
-npx skills add QuangNguyen/m-yagni --skill m-yagni -g
+npx skills add minhquang0407/m-yagni --skill m-yagni -g
 ```
 
 **Philosophy**
