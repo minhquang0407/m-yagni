@@ -1,10 +1,6 @@
 ---
-
 name: m-yagni
-description: >
-   Use for every coding task that creates, modifies, fixes, refactors,
-   reviews, or designs code. Enforces lean implementations, delayed
-   abstraction, strategic boundaries, and refactorability.
+description: Use for every coding task that creates, modifies, fixes, refactors, reviews, or designs code. Enforces lean implementations, delayed abstraction, strategic boundaries, and refactorability.
 -------------------------------------------------------
 
 # M-YAGNI
